@@ -1,8 +1,18 @@
 apiVersion: v1
 entries:
+  sample-cloud-connector:
+  - apiVersion: v1
+    created: 2019-01-18T15:58:53.25401Z
+    description: A Helm chart for Kubernetes
+    digest: 67ba694fd1323d8f5740c1200b2b349861f6cd462b69d4f0a7fa15bd6811f274
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: sample-cloud-connector
+    urls:
+    - https://benjamindougherty.github.io/activiti7-helm-repo/sample-cloud-connector-0.1.0.tgz
+    version: 0.1.0
   sample-runtime-bundle:
   - apiVersion: v1
-    created: 2019-01-17T13:53:48.280704Z
+    created: 2019-01-18T15:58:53.254635Z
     description: A Helm chart for Kubernetes
     digest: 6bc51b4708fb85dffcdaae278b75e63ec4f04ae1f49590e50abab917904860d7
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -10,4 +20,4 @@ entries:
     urls:
     - https://benjamindougherty.github.io/activiti7-helm-repo/sample-runtime-bundle-0.1.0.tgz
     version: 0.1.0
-generated: 2019-01-17T13:53:48.27912Z
+generated: 2019-01-18T15:58:53.251109Z
