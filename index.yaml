@@ -1,8 +1,28 @@
 apiVersion: v1
 entries:
+  alfresco-process-variables-connector-service:
+  - apiVersion: v1
+    created: 2019-01-22T14:23:31.88679Z
+    description: A Helm chart for Kubernetes (alfresco-process-variables-connector-service)
+    digest: 134c0ed804035b2892826c4f086364ab02c09c3ea264bcaba3c78e5ec31605b6
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: alfresco-process-variables-connector-service
+    urls:
+    - https://benjamindougherty.github.io/activiti7-helm-repo/alfresco-process-variables-connector-service-0.1.0.tgz
+    version: 0.1.0
+  aps-cloud-connector-email:
+  - apiVersion: v1
+    created: 2019-01-22T14:23:31.887223Z
+    description: A Helm chart for Kubernetes (aps-cloud-connector-email)
+    digest: f2248dba9c83bc887369c4e6e0ad69fa9253ede4984010866d594639c19f22dd
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: aps-cloud-connector-email
+    urls:
+    - https://benjamindougherty.github.io/activiti7-helm-repo/aps-cloud-connector-email-0.0.1.tgz
+    version: 0.0.1
   sample-cloud-connector:
   - apiVersion: v1
-    created: 2019-01-22T14:21:52.029751Z
+    created: 2019-01-22T14:23:31.887588Z
     description: A Helm chart for Kubernetes
     digest: 743e4c88dd9368cf2d5555c29f78c6732b428ecae9ec1cf14607955a4e7c55a1
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -12,7 +32,7 @@ entries:
     version: 0.1.0
   sample-runtime-bundle:
   - apiVersion: v1
-    created: 2019-01-22T14:21:52.030638Z
+    created: 2019-01-22T14:23:31.888038Z
     description: A Helm chart for Kubernetes
     digest: 8215e08e933dda7372866796027b2aa80f28c0487ddd902d2ec9e27036092905
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -20,4 +40,4 @@ entries:
     urls:
     - https://benjamindougherty.github.io/activiti7-helm-repo/sample-runtime-bundle-0.1.0.tgz
     version: 0.1.0
-generated: 2019-01-22T14:21:52.027139Z
+generated: 2019-01-22T14:23:31.886121Z
