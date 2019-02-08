@@ -1,5 +1,5 @@
 CURRENT=$(shell pwd)
-NAME := aps-cloud-connector-lambda
+NAME := alfresco-process-lambda-connector-service
 ORG := $(or $(ORG),activiti)
 APP_NAME := $(or $(APP_NAME),$(NAME))
 OS := $(shell uname)
